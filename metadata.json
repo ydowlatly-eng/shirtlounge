@@ -1,0 +1,6 @@
+{
+  "name": "ShirtLoung — Gen Z Streetwear & Apparel",
+  "description": "Modern streetwear destination for oversized t-shirts, heavyweight hoodies, and raw crewneck sweatshirts with direct WhatsApp order routing and admin inventory control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
